@@ -1,0 +1,5 @@
+assemblyai[extras]
+google-generativeai
+cartesia
+pyaudio
+python-dotenv
