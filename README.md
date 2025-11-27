@@ -2,7 +2,7 @@
 
 This is a Minimum Viable Product (MVP) for a real-time AI voice bot using:
 - **AssemblyAI** for Speech-to-Text (STT)
-- **OpenAI** for Intelligence (LLM)
+- **GeminiAI** for Intelligence (LLM)
 - **Cartesia** for Text-to-Speech (TTS)
 
 ## Setup
@@ -17,7 +17,7 @@ This is a Minimum Viable Product (MVP) for a real-time AI voice bot using:
 2.  **API Keys**:
     Rename `.env.example` to `.env` and fill in your API keys:
     - `ASSEMBLYAI_API_KEY`
-    - `OPENAI_API_KEY`
+    - `GEMINI_API_KEY`
     - `CARTESIA_API_KEY`
 
 3.  **Run**:
